@@ -1,0 +1,19 @@
+{'articles': [{'content': 'Unidentified persons chopped three sandalwood trees '
+                          'and stole the logs from the premises of Balbharati '
+                          'located on Senapati Bapat Road in Pune recently.\n'
+                          'Balbharati is the office of Maharashtra State '
+                          'Bureau of Textbook Production and Curriculum '
+                          'Researc... [523 chars]',
+               'description': 'The police said unidentified persons entered '
+                              'the Balbharati premises and chopped logs of '
+                              'three sandalwood trees, estimated at Rs 75,000, '
+                              'on the intervening night of December 3 and '
+                              'December 4.',
+               'image': 'https://images.indianexpress.com/2022/12/sandalwood-tree.jpg',
+               'publishedAt': '2022-12-19T10:50:43Z',
+               'source': {'name': 'The Indian Express',
+                          'url': 'https://indianexpress.com'},
+               'title': 'Logs of 3 sandalwood trees stolen from Balbharati '
+                        'premises in Pune',
+               'url': 'https://indianexpress.com/article/cities/pune/sandalwood-trees-stolen-balbharati-pune-8332895/'}],
+ 'totalArticles': 9268}
